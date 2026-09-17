@@ -349,8 +349,8 @@ __pycache__/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AutoTaskerAI.git
-cd AutoTaskerAI
+(https://github.com/Death-Miner/MultiAgentBot.git)
+
 ```
 
 ---
